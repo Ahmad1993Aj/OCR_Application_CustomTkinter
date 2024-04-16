@@ -27,8 +27,9 @@ This OCR (Optical Character Recognition) application is designed to efficiently 
 
 ## Install Python Dependencies
 Install the required Python libraries using pip:
-```bash
+
    pip install customtkinter pytesseract Pillow opencv-python
+
 
 ## Usage:
 To run the application, navigate to the application directory and execute: python app.py
